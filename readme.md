@@ -41,3 +41,11 @@ Após o término da Parte 1, precisamos limpar o ambiente e liberar a porta 8080
   * Instalar o Nomad agent: siga os passos presentes em `./pre-requisitos/nomad`.
 
 > 💡 **Checkpoint:** Nesse ponto, temos os pré-requisitos necessários para fazer a segunda parte do experimento (`httpd`).
+
+# Roteiro
+- 19:00 - 19:15: Introdução (Slide de apresentação + assinatura do termo de participação)
+- 19:15 - 19:30: Configuração ambiente + separação dos grupos
+- 19:30 - 20:00: Parte 1 - NGINX
+- > PAUSA 5 MIN - limpeza ambiente + descanso mental
+- 20:05 - 20:35: Parte 2 - HTTPD
+- 20:35 - 20:40: Coleta de resultados + agradecimentos
